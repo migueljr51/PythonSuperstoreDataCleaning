@@ -15,7 +15,7 @@ This dataset resembles the kind of sales and logistics data companies typically 
 - Which products or regions perform best?
 - What are customer purchasing patterns?
 
-Python code used for the cleanup of the .csv file can be found here [link]().
+Python code used for the cleanup of the .csv file can be found here [link](https://github.com/migueljr51/PythonSuperstoreDataCleaning/blob/main/superstore_data_cleaning.py).
 
 ---
 # Data Structure
@@ -104,7 +104,7 @@ The cleaned Superstore data can power a set of dashboards to support strategic d
 ![alt text](ShipTimeDist.png)
 
 
-Python code used for the visualization of the data can be found here [link]().
+Python code used for the visualization of the data can be found here [link](https://github.com/migueljr51/PythonSuperstoreDataVisualization/blob/main/superstore_visualization.py).
 ---
 
 ## ✅ Final Output
