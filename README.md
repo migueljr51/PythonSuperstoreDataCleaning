@@ -61,12 +61,12 @@ This Python script prepares the Superstore data for deeper business analysis by 
 
 The cleaned dataset is now more accurate, consistent, and ready for use in dashboards, reports, and business analysis. Here are a few ways this data can be leveraged:
 
-### For Finance Executives:
+### For Finance:
 - Analyze **shipping delays** and their impact on revenue.
 - Evaluate **regional sales performance** using state-level breakdowns.
 - Perform **product profitability analysis** using unique Product IDs.
 
-### For Marketing Executives:
+### For Marketing:
 - Identify **high-performing product categories** or regions.
 - Target customers by segment or region based on past buying behavior.
 - Monitor **order-to-ship time** to align promotional campaigns with fulfillment capabilities.
@@ -87,21 +87,21 @@ The cleaned Superstore data can power a set of dashboards to support strategic d
 - Orders by Shipping Time (0–2 days, 3–5 days, 6+ days)
 - Top 10 States with Slowest Delivery
 
+![alt text](Images/AvgShipByState.png)
+
+![alt text](Images/AvgDaysRegion.png)
+
+![alt text](Images/OrdByShipTime.png)
+
+![alt text](Images/ShipTimeDist.png)
+
+![alt text](Images/TenSlowDelivery.png)
+
+
 **Business Questions Answered**:
 - Are certain regions experiencing slower deliveries?
 - Is our shipping process meeting expectations?
 - Where should we focus logistics improvements?
-
-
-![alt text](Images/AvgShipByState.png)
-
-![alt text](Images/OrdByShipTime.png)
-
-![alt text](Images/TenSlowDelivery.png)
-
-![alt text](Images/AvgDaysRegion.png)
-
-![alt text](Images/ShipTimeDist.png)
 
 
 Python code used for the visualization of the data can be found here [link](https://github.com/migueljr51/PythonSuperstoreDataVisualization/blob/main/superstore_visualization.py).
