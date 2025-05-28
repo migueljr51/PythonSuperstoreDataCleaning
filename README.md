@@ -21,7 +21,7 @@ Python code used for the cleanup of the .csv file can be found here [link](https
 # Data Structure
 The companies main data structure as seen below consists a .csv file: Superstore, with a total row count of 9994 records. A description of the .csv is as follows:
 
-![alt text](images/ERD.png)
+![alt text](Images/ERD.png)
 
 ---
 ## 🛠️ What This Script Does
@@ -93,15 +93,15 @@ The cleaned Superstore data can power a set of dashboards to support strategic d
 - Where should we focus logistics improvements?
 
 
-![alt text](images/AvgShipByState.png)
+![alt text](Images/AvgShipByState.png)
 
-![alt text](images/OrdByShipTime.png)
+![alt text](Images/OrdByShipTime.png)
 
-![alt text](images/TenSlowDelivery.png)
+![alt text](Images/TenSlowDelivery.png)
 
-![alt text](images/AvgDaysRegion.png)
+![alt text](Images/AvgDaysRegion.png)
 
-![alt text](images/ShipTimeDist.png)
+![alt text](Images/ShipTimeDist.png)
 
 
 Python code used for the visualization of the data can be found here [link](https://github.com/migueljr51/PythonSuperstoreDataVisualization/blob/main/superstore_visualization.py).
