@@ -19,7 +19,7 @@ Python code used for the cleanup of the .csv file can be found here [link](https
 
 ---
 # Data Structure
-The companies main database structure as seen below consists of one table: Superstore, with a total row count of 9994 records. A description of each table is as follows:
+The companies main data structure as seen below consists a .csv file: Superstore, with a total row count of 9994 records. A description of the .csv is as follows:
 
 ![alt text](ERD.png)
 
