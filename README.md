@@ -16,6 +16,7 @@ This dataset resembles the kind of sales and logistics data companies typically 
 - What are customer purchasing patterns?
 
 Python code used for the cleanup of the .csv file can be found here [link](https://github.com/migueljr51/PythonSuperstoreDataCleaning/blob/main/superstore_data_cleaning.py).
+Superstore .csv file can be found here [link](https://github.com/migueljr51/PythonSuperstoreDataCleaning/blob/main/DataFiles/Superstore.csv).
 
 ---
 # Data Structure
